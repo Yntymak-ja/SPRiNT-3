@@ -1,3 +1,3 @@
 # doing-site
 
-https://codepen.io/Erbol005/pen/zYwbjoz
+https://yntymak-ja.github.io/doing-site/
