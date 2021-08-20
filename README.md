@@ -1,3 +1,3 @@
 # doing-site - Team's Web Site.
 
-https://yntymak-ja.github.io/doing-site/
+https://yntymak-ja.github.io/sprint-2/
